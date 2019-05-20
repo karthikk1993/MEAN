@@ -5,6 +5,11 @@ This project was generated with [Angular CLI](https://github.com/angular/angular
 ## Development server
 
 Run `ng serve` for a dev server. Navigate to `http://localhost:4200/`. The app will automatically reload if you change any of the source files.
+Also run node server.js from path src\app\server\service.js for api functionality
+have a Mongo DB connection and create your own DB and collection with respective schema as in src\app\server\user\user.js.
+Running Mongo DB 
+1.open command propmpt
+2.Navigate to the mongo db path and run 'mongod.exe --dbpath D:/data'
 
 ## Code scaffolding
 
